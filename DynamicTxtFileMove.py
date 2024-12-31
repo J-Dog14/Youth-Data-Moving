@@ -3,8 +3,8 @@ import os
 import re
 
 # Paths
-folder_path = 'D:/Youth Data Moving/Output Files/'
-db_path = 'D:/Youth Data Moving/Output Files/movement_database.db'
+folder_path = 'D:/Youth Pronation/Output Files/'
+db_path = 'D:/Youth Pronation/Output Files/movement_database.db'
 
 # Connect to SQLite database
 conn = sqlite3.connect(db_path)
